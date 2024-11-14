@@ -1,0 +1,15 @@
+C:\Aplicatii\Facultate\Programe\PAW\ProiectContabilitate\bin\Debug\ProiectContabilitate.exe.config
+C:\Aplicatii\Facultate\Programe\PAW\ProiectContabilitate\bin\Debug\ProiectContabilitate.exe
+C:\Aplicatii\Facultate\Programe\PAW\ProiectContabilitate\bin\Debug\ProiectContabilitate.pdb
+C:\Aplicatii\Facultate\Programe\PAW\ProiectContabilitate\obj\Debug\ProiectContabilitate.csproj.AssemblyReference.cache
+C:\Aplicatii\Facultate\Programe\PAW\ProiectContabilitate\obj\Debug\ProiectContabilitate.Properties.Resources.resources
+C:\Aplicatii\Facultate\Programe\PAW\ProiectContabilitate\obj\Debug\ProiectContabilitate.csproj.GenerateResource.cache
+C:\Aplicatii\Facultate\Programe\PAW\ProiectContabilitate\obj\Debug\ProiectContabilitate.csproj.CoreCompileInputs.cache
+C:\Aplicatii\Facultate\Programe\PAW\ProiectContabilitate\obj\Debug\ProiectContabilitate.exe
+C:\Aplicatii\Facultate\Programe\PAW\ProiectContabilitate\obj\Debug\ProiectContabilitate.pdb
+C:\Aplicatii\Facultate\Programe\PAW\ProiectContabilitate\obj\Debug\ProiectContabilitate.AplicatieContabilitate.resources
+C:\Aplicatii\Facultate\Programe\PAW\ProiectContabilitate\obj\Debug\ProiectContabilitate.Conturi.resources
+C:\Aplicatii\Facultate\Programe\PAW\ProiectContabilitate\obj\Debug\ProiectContabilitate.Tranzactii.resources
+C:\Aplicatii\Facultate\Programe\PAW\ProiectContabilitate\obj\Debug\ProiectContabilitate.Operatii_contabile.resources
+C:\Aplicatii\Facultate\Programe\PAW\ProiectContabilitate\obj\Debug\ProiectContabilitate.Conectare.resources
+C:\Aplicatii\Facultate\Programe\PAW\ProiectContabilitate\obj\Debug\ProiectContabilitate.Main.resources

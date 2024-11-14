@@ -1,0 +1,26 @@
+<catalog>
+  <Tranzactie>
+    <NumarTranzactie>1</NumarTranzactie>
+    <Descriere>Factura</Descriere>
+    <Suma>342</Suma>
+    <DataTranzactiei>2024-05-25T00:00:00</DataTranzactiei>
+  </Tranzactie>
+  <Tranzactie>
+    <NumarTranzactie>1</NumarTranzactie>
+    <Descriere>Factura</Descriere>
+    <Suma>345</Suma>
+    <DataTranzactiei>2024-05-26T00:00:00</DataTranzactiei>
+  </Tranzactie>
+  <Tranzactie>
+    <NumarTranzactie>2</NumarTranzactie>
+    <Descriere>Factura</Descriere>
+    <Suma>112</Suma>
+    <DataTranzactiei>2024-05-26T00:00:00</DataTranzactiei>
+  </Tranzactie>
+  <Tranzactie>
+    <NumarTranzactie>3</NumarTranzactie>
+    <Descriere>Achizitii</Descriere>
+    <Suma>100</Suma>
+    <DataTranzactiei>2024-05-26T00:00:00</DataTranzactiei>
+  </Tranzactie>
+</catalog>

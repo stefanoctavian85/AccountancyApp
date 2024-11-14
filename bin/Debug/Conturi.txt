@@ -1,0 +1,5 @@
+457,Licente,40,25
+662,Marfa,100,50
+4421,TVA de recuperat,100,20
+122,Marfa,120,20
+121,Brevete,100,20
