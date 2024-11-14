@@ -1,1 +1,1 @@
-# AccountancyApp
+Accountancy app in C#
